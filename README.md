@@ -61,7 +61,7 @@ open index.html
 
 ## 📄 License
 
-[MIT License](LICENSE) © 2024 Snow Globe
+[MIT License](LICENSE) Copyright (c) 2025 Yuliya Kolesnikova <0009-0000-6151-7415@orcid.org>
 
 ---
 
